@@ -46,7 +46,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Certifications  # Title for the section
+  - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: middle 
@@ -156,8 +156,41 @@ content:
           - Layer 3 Technologies, Layer 2 Technologies, Layer 1 Technologies
           - Commerce lifecycle API automating for on-boarding, provisioning, deprovisioning, renewals, consumption, and billing
           - Documentation with Sphinx, Readthedocs, and Jekyll using markdown
-          - Web app development with Ruby, Flask, ngrok, and Jinja2  
+          - Web app development with Ruby, Flask, ngrok, and Jinja2 
+  
+  - title: Teaching, Workshops, Team Building  # Title for the section
+    layout: list # Type of content section (list/text)
+    content: 
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        link_text: 
+        additional_links:
+          - title:  
+            icon: 
+            url: 
+          - title: 
+            icon: 
+            url: 
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+          - Mentored junior engineers in network engineering topics like
+             - Networking
+             - TCP/IP
+             - Security
+             - Routing & Switching
+             - Wireless Networks
+          - Conduct workshops on various topics in the DevOps community like 
+             - Automation and Networking
+             - Version Control with Git and GitHub
+             - Collaboration and Teamwork
+             - API Integration with Python 
+             - CI/CD Pipeline
+             - Yang and Netconf
+             - Chatbots and App Integrations  
+             
 
+   
   - title: Education
     layout: list
     content:
