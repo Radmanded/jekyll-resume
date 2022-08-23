@@ -79,14 +79,61 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+        title: TD SYNNEX, Remote 
+        sub_title: Network Automation Consultant 
+        caption: Sep 2021 - present
+        link: 
+        quote: 
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          - Built Cisco DevNet enablement practice, certifications/specialization roadmaps, training materials, gtm, labs, and documentation
+          - Developed Python API for automating Cisco/Meraki/Webex/Security/DNA-C/ACI - Over 30 use-cases
+          - Retained high value($50 Mil/Year), disgruntled partners through customer obsession and service
+          - Lead workshops, training, webinars and mentoring for internal and external leaders and teams
+
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: WhiteSky Communications LLC, Torrance, CA 
+        sub_title: Network Engineer  
+        caption: Jan 2020 - Apr 2021 
+        link: 
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+          - Design, build, and troubleshoot 5,10,40, and 100 Gigabit fiber DWDM Wavelengths, Dark Fiber, EVPL, and circuits from most major ISPs and transit providers 
+          - Managed Data Center infrastructure and campus network design for multiple data centers and multiple client networks 
+          - Introduced network automation tools and python scripts for network management 
+          - Worked with Juniper MX/EX, Cisco Catalyst/Nexus, Linux servers, and SD-WAN 
+
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: TD SYNNEX 
+        sub_title: Network Automation Consultant 
+        caption: Sep 2021 - present
+        link: 
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+          - Built Cisco DevNet enablement practice, certifications/specialization roadmaps, training materials, gtm, labs, and documentation
+          - Developed Python API for automating Cisco/Meraki/Webex/Security/DNA-C/ACI - Over 30 use-cases
+          - Retained high value($50 Mil/Year), disgruntled partners through customer obsession and service
+          - Lead workshops, training, webinars and mentoring for internal and external leaders and teams
+
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: TD SYNNEX 
+        sub_title: Network Automation Consultant 
+        caption: Sep 2021 - present
+        link: 
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+          - Built Cisco DevNet enablement practice, certifications/specialization roadmaps, training materials, gtm, labs, and documentation
+          - Developed Python API for automating Cisco/Meraki/Webex/Security/DNA-C/ACI - Over 30 use-cases
+          - Retained high value($50 Mil/Year), disgruntled partners through customer obsession and service
+          - Lead workshops, training, webinars and mentoring for internal and external leaders and teams
   - title: Education
     layout: list
     content:
