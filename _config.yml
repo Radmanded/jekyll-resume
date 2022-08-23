@@ -1,4 +1,4 @@
-# Site
+#Directory of profile image (eg.o SiteDirectory of profile image (eg.j
 repository: https://github.com/Radmanded/responsive-resume 
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
@@ -23,13 +23,12 @@ github_username: radmanded
 stackoverflow_username: "18175188"
 linkedin_username: ruben-dedman
 youtube_username: https://www.youtube.com/c/RubenDedman
-googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
+#- title: Link name
+#  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -42,10 +41,10 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   
-  I am a dedicated problem solver focused on digital transformation. I have over ten years of experience in IT. I am a strong believer in the power of open source software and marveled at my involvement in the modern network. I have a never-quit attitude toward learning and am always looking for new challenges. My duties involve working directly with CEOs, upper management, developers, and engineers to drive <mark> digital transformation</mark> in their business. 
+  I am a dedicated problem solver focused on digital transformation. I have over ten years of experience in IT. I am a strong believer in the power of open source software and marveled at my involvement in the modern network. I have a never-quit attitude toward learning and am always looking for new challenges. My duties involve working directly with CEOs, upper management, developers, and engineers to drive <mark> digital transformation</mark> in their businesses.
 
 
 content:
