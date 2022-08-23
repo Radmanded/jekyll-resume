@@ -176,13 +176,13 @@ content:
             url: 
         quote: 
         description: | # this will include new lines to allow paragraphs
-          - Mentored junior engineers in network engineering topics like
+          - Mentor junior engineers and management in network engineering topics like:
              - Networking
              - TCP/IP
              - Security
              - Routing & Switching
              - Wireless Networks
-          - Conduct workshops on various topics in the DevOps community like 
+          - Conduct workshops on various topics in the DevOps community like: 
              - Automation and Networking
              - Version Control with Git and GitHub
              - Collaboration and Teamwork
