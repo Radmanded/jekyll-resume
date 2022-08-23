@@ -56,7 +56,6 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Certifications 
-        link: https://github.com/Radmanded/ 
         link_text: github 
         additional_links:
           - title:  
@@ -90,7 +89,7 @@ content:
           - Retained high value($50 Mil/Year), disgruntled partners through customer obsession and service
           - Lead workshops, training, webinars and mentoring for internal and external leaders and teams
 
-  - title: Experience
+  - title: 
     layout: list
     content:
       - layout: right
@@ -105,53 +104,90 @@ content:
           - Introduced network automation tools and python scripts for network management 
           - Worked with Juniper MX/EX, Cisco Catalyst/Nexus, Linux servers, and SD-WAN 
 
-  - title: Experience
+  - title: 
     layout: list
     content:
       - layout: right
-        title: TD SYNNEX 
-        sub_title: Network Automation Consultant 
-        caption: Sep 2021 - present
+        title: Boingo, Los Angeles, CA 
+        sub_title: Cisco Field Engineer 
+        caption: Jul 2020 - Dec 2020 
         link: 
         quote: 
         description: | # this will include new lines to allow paragraphs
-          - Built Cisco DevNet enablement practice, certifications/specialization roadmaps, training materials, gtm, labs, and documentation
-          - Developed Python API for automating Cisco/Meraki/Webex/Security/DNA-C/ACI - Over 30 use-cases
-          - Retained high value($50 Mil/Year), disgruntled partners through customer obsession and service
-          - Lead workshops, training, webinars and mentoring for internal and external leaders and teams
+          - Perform hands-on hardware break-fix for LAX Airport, John Wayne Airport, and Hollywood Bowl 
+          - Install, repair, and maintain Cisco Wireless infrastructure, Fiber backbones from MDF to IDFs, Cisco Wireless Controller 8540, 5520, Wifi 6, Cisco 1900, 910, 3702i/e APs, Cisco 3750, 3560-CX switches, and UPS 
+          - Utilize and monitor Jira ticketing system to manage projects, trouble tickets, and  tracking 
+          - Analyze, interpret, and update documents and blueprints using Revu Bluebeam software 
 
-  - title: Experience
+  - title: 
     layout: list
     content:
       - layout: right
-        title: TD SYNNEX 
-        sub_title: Network Automation Consultant 
-        caption: Sep 2021 - present
+        title: DakotaPro, Tucson, AZ 
+        sub_title: Network Engineer 
+        caption: Jul 2018 - Jul 2019
         link: 
         quote: 
         description: | # this will include new lines to allow paragraphs
-          - Built Cisco DevNet enablement practice, certifications/specialization roadmaps, training materials, gtm, labs, and documentation
-          - Developed Python API for automating Cisco/Meraki/Webex/Security/DNA-C/ACI - Over 30 use-cases
-          - Retained high value($50 Mil/Year), disgruntled partners through customer obsession and service
-          - Lead workshops, training, webinars and mentoring for internal and external leaders and teams
+          - Design network and tower infrastructure topologies, build network in staging area, configure all equipment remotely, manage technicians in deployment, document all processes
+          - Manage Network with over 5000 devices via SolarWinds, SD-WAN/UNMS, AirControl, ticket system, and other 72 troubleshooting platforms and protocols. Upgrade routers, switches, radios, and firewalls. 
+          - Work with brands like Cisco, Ubiquiti, Adtran, Vayatta, Mikrotik, Ruckus, and Fortinet. Configuring, Upgrade/Update, and troubleshooting firewalls, VPNs, routers, switches, access points, cameras, UPS, VOIP, radios, firmware, OSPF, PPPoE, banners, TACACS, and AAA authentication 
+
+  - title: Technologies  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Technologies 
+        link_text: 
+        additional_links:
+          - title:  
+            icon: 
+            url: 
+          - title: 
+            icon: 
+            url: 
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+          - Python, Node.js, Ansible, Terraform, Docker, AWS, GCP, Git/Github/Git, CI/CD Pipeline 
+          - AI Chatbot with Dialogflow
+          - Zero touch provisioning with YAML/YANG/RESTCONF/NETCONF 
+          - Integrations with API, ETL with Python and JSON 
+          - Webex and OAuth2 integration 
+          - Cisco Catalyst/Nexus/ACI/DNA-C/SD-WAN, Juniper, Meraki, and Linux
+          - Layer 3 Technologies, Layer 2 Technologies, Layer 1 Technologies
+          - Commerce lifecycle API automating for on-boarding, provisioning, deprovisioning, renewals, consumption, and billing
+          - Documentation with Sphinx, Readthedocs, and Jekyll using markdown
+          - Web app development with Ruby, Flask, ngrok, and Jinja2  
+
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+        title: New Horizons Learning, Burbank, CA
+        sub_title: IT Technical Training   
+        caption: 2012 - 2015
+        quote: 
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      - layout: top-right
+        title: Cypress College, Cypress, CA 
+        sub_title: University Transfer Course  
+        caption: 2008 - 2010
+        quote: 
+        description: | # this will include new lines to allow paragraphs
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
+  - title: Military   
+    layout: list
+    content:
+      - layout: top-right
+        title: US ARMY 
+        sub_title: Specialist
+        caption: 2003 - 2006
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+ 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
