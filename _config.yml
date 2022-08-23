@@ -1,5 +1,3 @@
-#Directory of profile image (eg.o SiteDirectory of profile image (eg.j
-repository: https://github.com/Radmanded/responsive-resume 
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -12,7 +10,7 @@ email: rubendedman@gmail.com
 # email_title: Email (Email title override)
 phone: 520-330-2566  
 # phone_title: Phone (Phone title override)
-website: www.netdevman.com 
+website: www.devmannet.com 
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -51,10 +49,10 @@ content:
   - title: Certifications  # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: middle 
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Certifications 
+        title:  
         link_text: github 
         additional_links:
           - title:  
@@ -138,7 +136,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Technologies 
+        title:  
         link_text: 
         additional_links:
           - title:  
@@ -163,15 +161,15 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-middle
         title: New Horizons Learning, Burbank, CA
         sub_title: IT Technical Training   
         caption: 2012 - 2015
         quote: 
         description: | # this will include new lines to allow paragraphs
-      - layout: top-right
+      - layout: top-middle
         title: Cypress College, Cypress, CA 
-        sub_title: University Transfer Course  
+        sub_title: University Transfer Student  
         caption: 2008 - 2010
         quote: 
         description: | # this will include new lines to allow paragraphs
@@ -180,7 +178,7 @@ content:
   - title: Military   
     layout: list
     content:
-      - layout: top-right
+      - layout: top-middle
         title: US ARMY 
         sub_title: Specialist
         caption: 2003 - 2006
