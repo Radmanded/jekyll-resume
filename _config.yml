@@ -221,17 +221,6 @@ content:
         caption: 2003 - 2006
         quote: 
         description: | # this will include new lines to allow paragraphs
-        
-   - title: Customer Feedback   
-    layout: 
-    content:
-      - layout: 
-        title:  
-        sub_title: 
-        caption: 
-        quote: 
-        description: | # this will include new lines to allow paragraphs
-        ![](images/thankyous-collage-covered.png)
   
  
 # Footer
