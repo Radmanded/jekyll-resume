@@ -43,8 +43,8 @@ about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   
   I am a dedicated problem solver focused on digital transformation. I have over ten years of experience in IT. I am a strong believer in the power of open source software and marveled at my involvement in the modern network. I have a never-quit attitude toward learning and am always looking for new challenges. My duties involve working directly with CEOs, upper management, developers, and engineers to drive <mark> digital transformation</mark> in their businesses.
-
-
+ 
+  [Check out one of my projects](https://developer.cisco.com/codeexchange/github/repo/Procellis-Technology-Inc/MCPiP/) that Cisco published 
 content:
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
@@ -217,7 +217,11 @@ content:
         caption: 2003 - 2006
         quote: 
         description: | # this will include new lines to allow paragraphs
+
+thanks_profile_image: images/thankyous-collage-covered.png
+thanks_content: | # this will include new lines to allow paragraphs
  
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
