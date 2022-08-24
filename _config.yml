@@ -1,4 +1,5 @@
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+images/favicon.png
 
 # Content configuration version
 version: 2
@@ -42,9 +43,17 @@ youtube_username: https://www.youtube.com/c/RubenDedman
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   
+<<<<<<< HEAD
   I am a dedicated problem solver focused on digital transformation. I have over ten years of experience in IT. I am a strong believer in the power of open source software and marveled at my involvement in the modern network. I have a never-quit attitude toward learning and am always looking for new challenges. My duties involve working directly with CEOs, upper management, developers, and engineers to drive <mark> digital transformation</mark> in their businesses.
  
   [Check out one of my projects](https://developer.cisco.com/codeexchange/github/repo/Procellis-Technology-Inc/MCPiP/) that Cisco published 
+=======
+I am a dedicated problem solver focused on digital transformation and CX (Customer Success). I have over ten years of experience in IT. I strongly believe in the power of open source software, cloud, AI, and APIs. I possess a never-quit attitude toward learning and always searching for new challenges.  My duties involve working directly with CEOs, upper management, developers, and engineers to build consumption-based software practices and drive <mark> digital transformation</mark> in their businesses.
+  
+  Check [out one of my projects](https://developer.cisco.com/codeexchange/github/repo/Procellis-Technology-Inc/MCPiP/) that Cisco published
+
+
+>>>>>>> 135c5b407c10cbf569b49e5ce3ce2976c2220a06
 content:
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
@@ -127,8 +136,9 @@ content:
         quote: 
         description: | # this will include new lines to allow paragraphs
           - Design network and tower infrastructure topologies, build network in staging area, configure all equipment remotely, manage technicians in deployment, document all processes
-          - Manage Network with over 5000 devices via SolarWinds, SD-WAN/UNMS, AirControl, ticket system, and other 72 troubleshooting platforms and protocols. Upgrade routers, switches, radios, and firewalls. 
-          - Work with brands like Cisco, Ubiquiti, Adtran, Vayatta, Mikrotik, Ruckus, and Fortinet. Configuring, Upgrade/Update, and troubleshooting firewalls, VPNs, routers, switches, access points, cameras, UPS, VOIP, radios, firmware, OSPF, PPPoE, banners, TACACS, and AAA authentication 
+          - Manage Network with over 5000 devices via SolarWinds, SD-WAN/UNMS, AirControl, ticket system, and troubleshooting platforms and protocols
+          - Work with brands like Cisco, Ubiquiti, Adtran, Vayatta, Mikrotik, Ruckus, and Fortinet 
+          - Upgrade/Update and troubleshoot firewalls, VPNs, routers, switches, APs, cameras, UPS, VOIP, radios, firmware, OSPF, PPPoE, banners, TACACS, and AAA authentication 
 
   - title: Technologies  # Title for the section
     layout: list # Type of content section (list/text)
@@ -174,13 +184,13 @@ content:
             url: 
         quote: 
         description: | # this will include new lines to allow paragraphs
-          - Mentored junior engineers in network engineering topics like
+          - Mentor junior engineers and management in network engineering topics like:
              - Networking
              - TCP/IP
              - Security
              - Routing & Switching
              - Wireless Networks
-          - Conduct workshops on various topics in the DevOps community like 
+          - Conduct workshops on various topics in the DevOps community like: 
              - Automation and Networking
              - Version Control with Git and GitHub
              - Collaboration and Teamwork
@@ -217,9 +227,13 @@ content:
         caption: 2003 - 2006
         quote: 
         description: | # this will include new lines to allow paragraphs
+<<<<<<< HEAD
 
 thanks_profile_image: images/thankyous-collage-covered.png
 thanks_content: | # this will include new lines to allow paragraphs
+=======
+  
+>>>>>>> 135c5b407c10cbf569b49e5ce3ce2976c2220a06
  
 
 # Footer
